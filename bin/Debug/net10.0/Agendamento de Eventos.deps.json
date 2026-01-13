@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Agendamento de Eventos/1.0.0": {
+        "runtime": {
+          "Agendamento de Eventos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agendamento de Eventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

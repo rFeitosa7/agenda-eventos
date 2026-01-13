@@ -1,0 +1,20 @@
+﻿@using Agendamento_de_Eventos.ViewModel
+@model LoginAdmViewModel
+@{
+    ViewData["Title"] = "Página Inicial - ";
+}
+
+<form asp-controller="Adm" asp-action="Login" method="post">
+    <div class="mb-3">
+        <label for="Usuario" class="form-label">Usuário</label>
+        <input asp-for="usuario" type="text" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="Senha" class="form-label">Senha</label>
+        <input asp-for="senha" type="password" class="form-control">
+    </div>
+
+    <button type="submit" class="btn btn-primary mb-4">Entrar</button>
+    <br />
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Voltar</a>
+</form>
