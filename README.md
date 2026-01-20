@@ -24,7 +24,7 @@ Sistema web desenvolvido para agendamento de eventos musicais (voz e violão), p
 - Controllers → Lógica da aplicação
 
 ## 🌐 Projeto Online
-🔗 https://win8179.site4now.net
+🔗 raffael27-001-site1.qtempurl.com
 
 ## 👨‍💻 Autor
 Rafael Feitosa Rodrigues  
